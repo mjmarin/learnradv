@@ -1,0 +1,17 @@
+Package: learnradv
+Title: Material de apoyo al Tutorial de R avanzado
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jose Carlos",
+           family = "Redondo",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID"))
+Description: Como hacer cosas con tidyverse.
+License: UCO 
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    learnr
